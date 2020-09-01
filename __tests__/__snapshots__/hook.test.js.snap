@@ -1,0 +1,103 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`hook test useCallback value change 1`] = `
+<div
+  id="root"
+>
+  2
+</div>
+`;
+
+exports[`hook test useCallback value never change 1`] = `
+<div
+  id="root"
+>
+  1
+</div>
+`;
+
+exports[`hook test useEffect complex set state 1`] = `
+<div
+  id="root"
+>
+  <div>
+    4
+  </div>
+</div>
+`;
+
+exports[`hook test useEffect set state 1`] = `
+<div
+  id="root"
+>
+  3
+</div>
+`;
+
+exports[`hook test useMemo value change 1`] = `
+<div
+  id="root"
+>
+  2
+</div>
+`;
+
+exports[`hook test useMemo value never change 1`] = `
+<div
+  id="root"
+>
+  1
+</div>
+`;
+
+exports[`hook test useReducer dispatch with click event 1`] = `
+<div
+  id="root"
+>
+  <div
+    id="counter"
+  >
+    2
+  </div>
+</div>
+`;
+
+exports[`hook test useReducer init value 1`] = `
+<div
+  id="root"
+>
+  <div>
+    1
+  </div>
+</div>
+`;
+
+exports[`hook test useRef init ref 1`] = `
+<div
+  id="root"
+>
+  <div />
+</div>
+`;
+
+exports[`hook test useState dispatch with click event 1`] = `
+<div
+  id="root"
+>
+  <div
+    id="counter"
+  >
+    2
+  </div>
+</div>
+`;
+
+exports[`hook test useState init value 1`] = `
+<div
+  id="root"
+>
+  <div>
+    1
+  </div>
+</div>
+`;
